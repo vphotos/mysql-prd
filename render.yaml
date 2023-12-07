@@ -1,7 +1,7 @@
 services:
 - type: pserv
   name: mysql
-  plan: individual
+  plan: starter
   env: docker
   autoDeploy: false
   disk:
